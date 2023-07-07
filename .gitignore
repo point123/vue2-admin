@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+/src/mock/mockjs.md
+/src/request/axios.md
 
 
 # local env files
